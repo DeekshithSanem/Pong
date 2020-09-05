@@ -1,2 +1,2 @@
 # Pong
-its a multiplayer game
+its a multiplayer game and its based on turtle.
